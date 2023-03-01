@@ -16,4 +16,18 @@ see it in [documention ](https://docs.djangoproject.com/en/4.1/ref/templates/bui
 -partical include 
 
 
+
+** django model
+-create model in model file
+-create field to model
+-run mange.py makemigrations 
+-run mange.py migrate 
+
+
+-create superuser
+ mange makemigrates
  
+ migrate 
+ popultate exixiting field
+ -insert by admindashbord
+ -insert by shell
